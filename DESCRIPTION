@@ -1,0 +1,10 @@
+Package: toyPackage
+Type: Package
+Title: R Package to Do Almost Nothing
+Version: 0.0.1
+Date: 2018-04-13
+Author: Laura Hernandes Lorenzo, Silvie Cinkova, Joanna Byszuk, Maciej Eder
+Maintainer: Maciej Eder <maciejeder@gmail.com>
+Depends: R (>= 3.0)
+Description: The package contains functions blah, blah ...........
+License: GPL (>= 3)
